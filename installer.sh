@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='xklass/main'
 
-MY_IPK="enigma2-plugin-extensions-xklass_1.37_all.ipk"
-MY_DEB="enigma2-plugin-extensions-xklass_1.37_all.deb"
+MY_IPK="enigma2-plugin-extensions-xklass_1.39_all.ipk"
+MY_DEB="enigma2-plugin-extensions-xklass_1.39_all.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
